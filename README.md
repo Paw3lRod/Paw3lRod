@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Paw3lRod, a norwegian high school student
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning the fundementals of javascript
-- 💞️ I’m looking to collaborate on any projects that can be a learning experience for me
-- 📫 How to reach me: E-mail: visapay10@gmail.com
+- 👋 Hi, I’m @Paw3lRod, a norwegian IT-student
+- 👀 I’m interested in cybersecurity and software development
+- 🌱 I’m currently working on developing an app
+- 💞️ I’m looking for internships or part-time jobs within IT
+- 📫 How to reach me: E-mail: pawelmrod@gmail.com
 
 <!---
 Paw3lRod/Paw3lRod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
