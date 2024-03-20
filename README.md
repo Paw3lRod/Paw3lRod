@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paw3lRod, a norwegian IT-student
 - 👀 I’m interested in cybersecurity and software development
-- 🌱 I’m currently working on developing an app
-- 💞️ I’m looking for internships or part-time jobs within IT
+- 🌱 I’m currently working at Mnemonic AS
+- 💞️ I’m looking for internships within IT
 - 📫 How to reach me: E-mail: pawelmrod@gmail.com
 
 <!---
